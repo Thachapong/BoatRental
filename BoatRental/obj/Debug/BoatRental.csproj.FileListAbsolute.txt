@@ -1,0 +1,7 @@
+C:\Works\C#\BoatRental\BoatRental\bin\Debug\BoatRental.exe.config
+C:\Works\C#\BoatRental\BoatRental\bin\Debug\BoatRental.exe
+C:\Works\C#\BoatRental\BoatRental\bin\Debug\BoatRental.pdb
+C:\Works\C#\BoatRental\BoatRental\obj\Debug\BoatRental.csprojAssemblyReference.cache
+C:\Works\C#\BoatRental\BoatRental\obj\Debug\BoatRental.csproj.CoreCompileInputs.cache
+C:\Works\C#\BoatRental\BoatRental\obj\Debug\BoatRental.exe
+C:\Works\C#\BoatRental\BoatRental\obj\Debug\BoatRental.pdb
